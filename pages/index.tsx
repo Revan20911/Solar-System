@@ -25,7 +25,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className='w-screen h-screen flex-row flex'>
-        <InfoBar Info={Info}/>
+<!--         <InfoBar Info={Info}/> -->
         <div id="canvas-container" className="w-screen h-screen absolute flex-col justify-center items-center">
           <Canvas className='bg-black' >
          
