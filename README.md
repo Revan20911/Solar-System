@@ -1,6 +1,6 @@
 # Solar System
 
-LIVE: 
+LIVE: https://sol-system-sim.netlify.app/
 
 
 This is a simulation of our solar system using r3f, Typescript, and Next.js. All textures being used are from public domain sources. 
